@@ -6,7 +6,7 @@
 		<mtrl id="1" mname="Welcome" from="2007-01-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2100-09-12T15:10:00.000Z" anno="emergency=1">
 			<name>Welcome</name>
 			<owner>i hope this doesnt break it</owner>
-			<desc>i also hope this doesnt break it</desc>
+			<desc>Welcome to PS3 ReClassic!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/welcome.png</url>
 			<url type="73">https://ps3-pro.github.io/Whats-New/media/ads/welcome.swf</url>
 			<target type="u">psvp:play?url=https://ps3-pro.github.io/Whats-New/media/ads/geohot_-_the_light_it_up_contest.mp4</target>
@@ -14,34 +14,34 @@
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="2" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>Powered by Insomniac Games third-generation PLAYSTATION®3 system technology, Resistance 2™ delivers unprecedented console gaming breakthroughs with a stand-alone eight-player, class based online co-op campaign, 60-player online competitive multiplayer and a new level of community support. An epic single-player features a new weapons arsenal to combat giant boss encounters that increase the scale of the conflict to new heights.</desc>
+			<desc>Snakeball is arriving to the PlayStation®Store in November 2007!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/psx-place.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/psx-place.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="3" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-			<desc>RESIDENT EVIL 5 VERSUS is a new mode available for Resident Evil® 5. Take control of Chris, Sheva and other RE5 favorites in online battles of up to 4 players! Compete for points by defeating Majini in SLAYERS or take down other players in SURVIVORS. Fight alone or in a team for a total of 4 exciting variations!</desc>
+			<desc>Sign up for the Interactive World Cup now</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/news_and_updates.png</url>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="4" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>We are now conducting a survey from 23rd April to 14th May on SONY VAIO P pocket style PC which is currently in store, and would like to hear your thoughts about this product. Finish the questionnaire and you can get a stylish SONYs VAIO P virtual item in PlayStation®Home. Want to be fashionable? Act now!</desc>
+			<desc>Playstation®Store Update June 29</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/radio.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/radio.html</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="5" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>Hot Shots Golf Lounge, NAMCO BANDAI Lounge, RESIDENT EVIL 5 Lounge, Ward of Despair in SIREN lounge are all available on April 22nd, 2009 in PlayStation®Home</desc>
+			<desc>PlayStation Blog Weekly Recap</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/translation.png</url>
 			<target type="u">psns:mygame?type=playhistory</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="6" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
-			<desc>inFamous is coming soon in May 2009!</desc>
+			<desc>The world of Singstar will rock you!</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/telegram.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/telegram.html</target>
 			<cntry agelmt="0">all</cntry>
