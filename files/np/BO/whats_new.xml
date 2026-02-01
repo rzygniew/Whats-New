@@ -54,6 +54,13 @@
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
+		<mtrl id="8" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>robert kubica</desc>
+			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/telegram.png</url>
+			<target type="u">https://ps3-pro.github.io/Pages/files/telegram.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
 		<!-- <mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Check out the breaking headlines and news of the moment and around the world.</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/breaking_news.png</url>
