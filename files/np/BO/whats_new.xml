@@ -1,7 +1,7 @@
 <!-- Coded for PS3™ 4K Pro by Luan Teles -->
 
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
-	<spc anno="csxad=1&adspace=2,3,4,5,6,7,8,9,10" id="1" multi="o" rep="t">
+	<spc anno="csxad=1&adspace=2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20" id="1" multi="o" rep="t">
 	<!-- Main Ads -->
 		<mtrl id="1" mname="Welcome" from="2007-01-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2100-09-12T15:10:00.000Z" anno="emergency=1">
 			<name>Welcome</name>
@@ -77,6 +77,69 @@
 		</mtrl>
 		<mtrl id="11" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
 			<desc>Initial D EXTREME STAGE - Coming to a Japanese game store near you!</desc>
+			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/telegram.png</url>
+			<target type="u">https://ps3-pro.github.io/Pages/files/telegram.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="12" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Gran Turismo 5 Prologue set to release in early 2008</desc>
+			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/telegram.png</url>
+			<target type="u">https://ps3-pro.github.io/Pages/files/telegram.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="13" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Themes are reportedly coming to the XMB™ in the upcoming 2.80 system software update</desc>
+			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/telegram.png</url>
+			<target type="u">https://ps3-pro.github.io/Pages/files/telegram.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="14" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>A new version of the PLAYSTATION®3 system with an upgraded 80GB hard disk is set to release in August 2008</desc>
+			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/telegram.png</url>
+			<target type="u">https://ps3-pro.github.io/Pages/files/telegram.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="15" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Metal Gear Solid 4 is set to release in June of 2008!</desc>
+			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/telegram.png</url>
+			<target type="u">https://ps3-pro.github.io/Pages/files/telegram.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="16" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Ready to take a leap of Faith? Mirror's Edge is set to release on PLAYSTATION®3 in November of 2008!</desc>
+			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/telegram.png</url>
+			<target type="u">https://ps3-pro.github.io/Pages/files/telegram.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="17" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>The fourth installment in the Devil May Cry franchise is rumored to release in early 2008</desc>
+			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/telegram.png</url>
+			<target type="u">https://ps3-pro.github.io/Pages/files/telegram.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="18" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Start your engines! MotorStorm: Pacific Rift is set to launch in 2008, exclusively on the PLAYSTATION®3 system.</desc>
+			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/telegram.png</url>
+			<target type="u">https://ps3-pro.github.io/Pages/files/telegram.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="19" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Thank you RougePatron and Jes for creating this amazing project and community <3</desc>
+			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/telegram.png</url>
+			<target type="u">https://ps3-pro.github.io/Pages/files/telegram.html</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<mtrl id="20" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Flower - A visual masterpiece from thatgamecompany rumored to be released around late 2008</desc>
 			<url type="1">https://ps3-pro.github.io/Whats-New/media/ads/telegram.png</url>
 			<target type="u">https://ps3-pro.github.io/Pages/files/telegram.html</target>
 			<cntry agelmt="0">all</cntry>
